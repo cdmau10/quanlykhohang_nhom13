@@ -29,7 +29,7 @@
 7. Tiến hành sử dụng phần mềm.
 
 ---
-** tải source code ở link github : https://github.com/thaimanh11/nhom4_QuanLyKhoHang
+** tải source code ở link github : [https://github.com/thaimanh11/nhom4_QuanLyKhoHang](https://github.com/cdmau10/quanlykhohang_nhom13/edit/main/README.md)
 
 ### Đăng nhập hệ thống
 
